@@ -1,8 +1,8 @@
 # 🏆 LeetCode Solutions
 
 <p align="center">
-  <img src="https://img.shields.io/badge/TOTAL%20SOLVED-134-blue?style=for-the-badge&logo=leetcode" />
-  <img src="https://img.shields.io/badge/EASY-98-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/TOTAL%20SOLVED-142-blue?style=for-the-badge&logo=leetcode" />
+  <img src="https://img.shields.io/badge/EASY-106-brightgreen?style=for-the-badge" />
   <img src="https://img.shields.io/badge/MEDIUM-32-orange?style=for-the-badge" />
   <img src="https://img.shields.io/badge/HARD-4-red?style=for-the-badge" />
 </p>
@@ -11,12 +11,12 @@
 
 | Metric | Count |
 | :--- | :--- |
-| **Total Solved** | 134 |
-| **Easy** | 98 |
+| **Total Solved** | 142 |
+| **Easy** | 106 |
 | **Medium** | 32 |
 | **Hard** | 4 |
 | **Languages** | MySQL, Python 3 |
-| **Last Updated** | 2026-07-17 04:41 UTC |
+| **Last Updated** | 2026-07-17 05:01 UTC |
 
 ## 📁 Solutions
 
@@ -102,8 +102,12 @@
 | 0724 | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) | [0724-find-pivot-index](./0724-find-pivot-index) | Easy | Python 3 | 2026-07-17 |
 | 0728 | [Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/) | [0728-self-dividing-numbers](./0728-self-dividing-numbers) | Easy | Python 3 | 2026-07-17 |
 | 0739 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | [0739-daily-temperatures](./0739-daily-temperatures) | Medium | Python 3 | 2026-07-17 |
+| 0742 | [to Lower Case](https://leetcode.com/problems/to-lower-case/) | [0742-to-lower-case](./0742-to-lower-case) | Easy | Python 3 | 2026-07-17 |
 | 0792 | [Binary Search](https://leetcode.com/problems/binary-search/) | [0792-binary-search](./0792-binary-search) | Easy | Python 3 | 2026-07-17 |
+| 0812 | [Rotate String](https://leetcode.com/problems/rotate-string/) | [0812-rotate-string](./0812-rotate-string) | Easy | Python 3 | 2026-07-17 |
 | 0816 | [Design Hashset](https://leetcode.com/problems/design-hashset/) | [0816-design-hashset](./0816-design-hashset) | Easy | Python 3 | 2026-07-17 |
+| 0822 | [Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/) | [0822-unique-morse-code-words](./0822-unique-morse-code-words) | Easy | Python 3 | 2026-07-17 |
+| 0851 | [Goat Latin](https://leetcode.com/problems/goat-latin/) | [0851-goat-latin](./0851-goat-latin) | Easy | Python 3 | 2026-07-17 |
 | 0859 | [Design Circular Deque](https://leetcode.com/problems/design-circular-deque/) | [0859-design-circular-deque](./0859-design-circular-deque) | Medium | Python 3 | 2026-07-17 |
 | 0860 | [Design Circular Queue](https://leetcode.com/problems/design-circular-queue/) | [0860-design-circular-queue](./0860-design-circular-queue) | Medium | Python 3 | 2026-07-17 |
 | 0861 | [Flipping An Image](https://leetcode.com/problems/flipping-an-image/) | [0861-flipping-an-image](./0861-flipping-an-image) | Easy | Python 3 | 2026-07-17 |
@@ -121,18 +125,22 @@
 | 1031 | [Add to Array Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/) | [1031-add-to-array-form-of-integer](./1031-add-to-array-form-of-integer) | Easy | Python 3 | 2026-07-17 |
 | 1095 | [Two City Scheduling](https://leetcode.com/problems/two-city-scheduling/) | [1095-two-city-scheduling](./1095-two-city-scheduling) | Medium | Python 3 | 2026-07-17 |
 | 1127 | [Last Stone Weight](https://leetcode.com/problems/last-stone-weight/) | [1127-last-stone-weight](./1127-last-stone-weight) | Easy | Python 3 | 2026-07-17 |
+| 1146 | [Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/) | [1146-greatest-common-divisor-of-strings](./1146-greatest-common-divisor-of-strings) | Easy | Python 3 | 2026-07-17 |
 | 1168 | [Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros/) | [1168-duplicate-zeros](./1168-duplicate-zeros) | Easy | Python 3 | 2026-07-17 |
 | 1236 | [N Th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/) | [1236-n-th-tribonacci-number](./1236-n-th-tribonacci-number) | Easy | Python 3 | 2026-07-17 |
 | 1274 | [Number of Days Between Two Dates](https://leetcode.com/problems/number-of-days-between-two-dates/) | [1274-number-of-days-between-two-dates](./1274-number-of-days-between-two-dates) | Easy | Python 3 | 2026-07-17 |
 | 1289 | [Day of The Week](https://leetcode.com/problems/day-of-the-week/) | [1289-day-of-the-week](./1289-day-of-the-week) | Easy | Python 3 | 2026-07-17 |
 | 1297 | [Maximum Number of Balloons](https://leetcode.com/problems/maximum-number-of-balloons/) | [1297-maximum-number-of-balloons](./1297-maximum-number-of-balloons) | Easy | Python 3 | 2026-07-17 |
+| 1390 | [Average Selling Price](https://leetcode.com/problems/average-selling-price/) | [1390-average-selling-price](./1390-average-selling-price) | Easy | MySQL | 2026-07-17 |
 | 1406 | [Subtract The Product and Sum of Digits of An Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/) | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](./1406-subtract-the-product-and-sum-of-digits-of-an-integer) | Easy | Python 3 | 2026-07-17 |
 | 1411 | [Convert Binary Number in A Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/) | [1411-convert-binary-number-in-a-linked-list-to-integer](./1411-convert-binary-number-in-a-linked-list-to-integer) | Easy | Python 3 | 2026-07-17 |
 | 1421 | [Find Numbers With Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/) | [1421-find-numbers-with-even-number-of-digits](./1421-find-numbers-with-even-number-of-digits) | Easy | Python 3 | 2026-07-17 |
 | 1468 | [Check If N and Its Double Exist](https://leetcode.com/problems/check-if-n-and-its-double-exist/) | [1468-check-if-n-and-its-double-exist](./1468-check-if-n-and-its-double-exist) | Easy | Python 3 | 2026-07-17 |
 | 1482 | [How Many Numbers Are Smaller Than The Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/) | [1482-how-many-numbers-are-smaller-than-the-current-number](./1482-how-many-numbers-are-smaller-than-the-current-number) | Easy | Python 3 | 2026-07-17 |
+| 1490 | [Generate A String With Characters That Have Odd Counts](https://leetcode.com/problems/generate-a-string-with-characters-that-have-odd-counts/) | [1490-generate-a-string-with-characters-that-have-odd-counts](./1490-generate-a-string-with-characters-that-have-odd-counts) | Easy | Python 3 | 2026-07-17 |
 | 1500 | [Count Largest Group](https://leetcode.com/problems/count-largest-group/) | [1500-count-largest-group](./1500-count-largest-group) | Easy | Python 3 | 2026-07-17 |
 | 1510 | [Find Lucky Integer in An Array](https://leetcode.com/problems/find-lucky-integer-in-an-array/) | [1510-find-lucky-integer-in-an-array](./1510-find-lucky-integer-in-an-array) | Easy | Python 3 | 2026-07-17 |
+| 1566 | [Check If A Word Occurs As A Prefix of Any Word in A Sentence](https://leetcode.com/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/) | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](./1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) | Easy | Python 3 | 2026-07-17 |
 | 1574 | [Maximum Product of Two Elements in An Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/) | [1574-maximum-product-of-two-elements-in-an-array](./1574-maximum-product-of-two-elements-in-an-array) | Easy | Python 3 | 2026-07-17 |
 | 1603 | [Running Sum of 1D Array](https://leetcode.com/problems/running-sum-of-1d-array/) | [1603-running-sum-of-1d-array](./1603-running-sum-of-1d-array) | Easy | Python 3 | 2026-07-17 |
 | 1630 | [Count Odd Numbers in An Interval Range](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/) | [1630-count-odd-numbers-in-an-interval-range](./1630-count-odd-numbers-in-an-interval-range) | Easy | Python 3 | 2026-07-17 |
